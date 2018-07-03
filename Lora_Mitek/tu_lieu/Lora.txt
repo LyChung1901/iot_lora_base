@@ -1,0 +1,6 @@
+ I. nguyên lý hoạt động của LoRa: 
+	1. dữ liệu sẽ được băm bằng các xung cao tần tạo ra tín hiệu có tần số cao hơn tín hiệu gốc, được gọi là chipped.
+	2. tín hiệu cao tần đc mã hóa theo các chuỗi chirp signal ( up or down chirp)
+	=> giảm độ phức tạp và chính xác cho thiết bị nhận, không cần công suất lớn mà vẫn có thể truyền tín hiệu đi xa
+	3. băng tần lm việc: 430M-915MHz châu á là 430Mhz
+	
